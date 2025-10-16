@@ -1,7 +1,4 @@
-### 📜 **get_next_line**
-
-markdown
-# 📜 get_next_line - École 42
+### 📜 get_next_line - École 42
 
 Projet fondamental du cursus 42.  
 **get_next_line** consiste à écrire une fonction capable de **lire une ligne depuis un descripteur de fichier**, peu importe sa taille, sans perdre le flux entre deux appels.
